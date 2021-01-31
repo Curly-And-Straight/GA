@@ -1,4 +1,7 @@
+test.ipynb
+produced_images
 dataset
+cnn_model.h5
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
